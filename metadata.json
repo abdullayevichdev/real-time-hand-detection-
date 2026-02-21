@@ -1,0 +1,5 @@
+{
+  "name": "Neon Hand String",
+  "description": "An interactive hand-tracking application that creates a glowing neon string between your hands using MediaPipe.",
+  "requestFramePermissions": ["camera"]
+}
